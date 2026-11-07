@@ -3,10 +3,10 @@
   "id": "nocap",
   "version": "${version}",
   "name": "NoCap 1.18.2 Speed",
-  "description": "Max speed: 100 blocks/s for minecarts, 340 blocks/s for elytra fireworks",
+  "description": "Raises the vanilla speed caps to 100 blocks/s for minecarts and 340 blocks/s for elytra fireworks, and relaxes the server-side too-fast movement check for boosted flight. Intended for servers you run yourself.",
   "authors": [],
   "contact": {},
-  "license": "MIT",
+  "license": "Unlicense",
   "environment": "*",
   "entrypoints": {},
   "mixins": [
