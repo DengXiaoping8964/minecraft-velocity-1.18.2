@@ -1,0 +1,6 @@
+.gradle/
+build/
+gradle-home/
+tools/
+node_modules/
+run/
